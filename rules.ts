@@ -54,6 +54,7 @@ const rules: KarabinerRules[] = [
       b: app("Brave Browser"),
       f: app("Firefox"),
       g: app("Google Chrome"),
+      m: app("Microsoft To Do"),
       p: app("Warp"),
       s: app("Safari"),
       t: app("Telegram"),
